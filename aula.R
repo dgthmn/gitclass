@@ -18,3 +18,4 @@ library(stats)        # lm(), scale() — já vem no R base
 library(piecewiseSEM)
 library(dplyr)
 library(writexl)
+
